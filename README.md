@@ -1,5 +1,5 @@
 # About
-This project aims to make a Habit Tracker to help accomplish goals, keep tabs on all of your good habits, and help getting rid of bad habits.
+This project aims to make a Habit Tracker to help accomplish goals, keep tabs on all of your good habits, and help getting rid of bad habits, all of this while making it fun.
 
 # Objectives
 ### Track both good and bad habits.
@@ -15,5 +15,11 @@ I want to be able to set my own habits and some goals, and the progress tracking
 The application would make it easier to develop and maintain habits since it is presented as a video game. These habits could benefit my life and health, such as drinking more water.
 
 I want the application to have a main screen displaying the habit and the number of days I have been maintaining it, another module to add habits and set goals, a section for daily and weekly goals along with the total points accumulated, a shop where I can redeem points for rewards, a settings section for account customization, and a profile section.
+
+# Mockups
+### This are proofs of concept and not final
+![principal](mockups/Principal.png)
+![principal](mockups/Añadir.png)
+
 
 
