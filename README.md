@@ -21,5 +21,5 @@ I want the application to have a main screen displaying the habit and the number
 ![principal](mockups/Principal.png)
 ![principal](mockups/Añadir.png)
 
-The first mockup is the Main page in wich there are two functions , first of all the + signs in the left , their function is to add a new habit .This button leads to the next mockup un wich you can name the habit and put a goal
+The first mockup is the Main page in wich there are two functions , first of all the + signs in the left , their function is to add a new habit .This button leads to the next mockup un wich you can name the habit , put the time of the goal and choose the difficulty.
 
