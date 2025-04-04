@@ -1,5 +1,5 @@
 # About
-This project aims to make a Habit Tracker to help accomplish goals, keep tabs on all of your good habits, and help getting rid of bad habits, all of this while making it fun.
+This project aims to make a Habit Tracker to help accomplish goals, keep tabs on all of your good habits, and help getting rid of bad habits, all of this while making it fun, resembling a videogame.
 
 # Objectives
 ### Track both good and bad habits.
