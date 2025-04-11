@@ -7,5 +7,6 @@ This project aims to make a Habit Tracker to help accomplish goals, keep tabs on
 ### Discourage bad habits.
 ### Give you full control on what you want to achieve, or leave behind.
 
-
+# Workshops
+## [Workshop 1] (https://github.com/Fabiancipher/OOP_project/tree/main/Workshop-1)
 
