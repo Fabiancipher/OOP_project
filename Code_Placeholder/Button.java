@@ -19,7 +19,7 @@ public class Button{
      * @param ButtonInfo: The assocaited information
      * @return: The information to be read, an interger
     */
-    public Interger Send(int ButtonInfo){
+    public Integer Send(int ButtonInfo){
         return I_Info;
     }
 }
