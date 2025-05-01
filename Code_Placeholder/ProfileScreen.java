@@ -12,6 +12,7 @@ public class ProfileScreen extends Screen {
 
    
     public ProfileScreen(String username, int level, int habitCount, int taskCount, int badHabitCount, int streakDays) {
+        
     }
 
     /**
