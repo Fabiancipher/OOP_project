@@ -42,9 +42,16 @@ public class RegisterScreen extends Screen {
     }
 
     /**
-     * Displays a registration message.
+     * Displays a registration message asking the username.
      */
-    public void showForm() {
-        System.out.println("Please enter your username and password.");
+    public void ShowFormUsername() {
+        System.out.println("U.NAME:");
+    }
+
+    /**
+     * Displays a registration message asking the password.
+     */
+    public void ShowFormPassword() {
+        System.out.println("PASS:");
     }
 }
