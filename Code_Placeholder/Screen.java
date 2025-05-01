@@ -12,7 +12,7 @@ public class Screen{
      * @param info: The information to be displayed
      * @return: Said information
      */
-    public String Dispay(String info){
+    public String Display(String info){
         System.out.println(info);
         return Information;
     }
