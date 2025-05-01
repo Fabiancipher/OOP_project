@@ -6,9 +6,6 @@ public class LogInButton extends Button {
     private String Username;
     private String Password;
 
-    /**
-     * Constructor
-     */
     public LogInButton() {
     }
 
@@ -20,7 +17,6 @@ public class LogInButton extends Button {
     public void click(String username, String password) {
         this.Username = username;
         this.Password = password;
-        System.out.println("Log In button clicked.");
         System.out.println("Username stored: " + Username);
         System.out.println("Login simulated successfully.");
     }
